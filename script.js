@@ -33,7 +33,7 @@ document.getElementById("downloadButton").addEventListener("click", function() {
 
 
     if (os === 'Windows') {
-        downloadLink = 'https://github.com/20obb/jailbreak/releases/download/untagged-23f09dbf7859026f070f/Honeypi-beta-windows.zip';
+        downloadLink = 'https://github.com/20obb/jailbreak/releases/download/rebox/Honeypi-beta-windows.zip';
     } else if (os === 'Mac') {
         downloadLink = 'https://github.com/20obb/jailbreak/releases/download/rebox/for-mac-HoenyPi.txt';
     } else if (os === 'Linux') {
